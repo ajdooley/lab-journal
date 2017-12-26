@@ -1,5 +1,7 @@
 # Lab Journal
 
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20170925_100923.jpg" width="650" height="400" />
+
 # Practical 1:
 
 ## Markdown:  
@@ -24,7 +26,6 @@ Permissions / User / Bits / Creation date
 ## Hack Into A Robot: 
 
 The robot was networked and we were given an IP address. 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/20170925_100923.jpg" width="650" height="400" />
 We win!
 
 
