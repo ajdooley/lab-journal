@@ -1,6 +1,6 @@
 # Lab Journal
 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/20170925_100923.jpg" width="650" height="400" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20170925_100923.jpg" width="700" height="400" />
 
 # Practical 1:
 
