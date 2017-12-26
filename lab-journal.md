@@ -32,17 +32,17 @@ We win!
 
 This task consisted of constructing a very basic DC motor. 
 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-7.fw.png" width="400" height="500" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-7.fw.png" width="550" height="500" />
 
 ## In Motion: 
 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-6.fw.png" width="400" height="500" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-6.fw.png" width="600" height="500" />
 
 ## Basic Motor Design: 
 
 We created a simple yet effective DC motor using a cork as a commutator and armature in one. 
 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-5.fw.png" width="400" height="500" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-5.fw.png" width="700" height="500" />
 
 ## Taking It Further: 
 
@@ -50,7 +50,7 @@ Having produced a working DC motor using a single coil, we decided to try and pr
 
 ## 3D printing: 
 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-4.fw.png" width="400" height="500" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-4.fw.png" width="450" height="500" />
 
 ## Commutator construction: 
 
@@ -64,13 +64,13 @@ We used far more turns in the copper wire this time, and made sure the windings 
 # Practical 3:  
 ## Incremental Encoder: 
 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-3.fw.png" width="400" height="500" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-3.fw.png" width="500" height="500" />
 
 ## 3D Printing And Mounting: 
 
 We 3D printed a disk with a slot in it. This would attach to the motor shaft and spin. An LED light source and phototransistor detector would then detect each rotation as a signal is picked up when the slot is between the LED and detector. 
 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-2.fw.png" width="400" height="500" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-2.fw.png" width="500" height="500" />
 
 ## The Circuit:  
 
