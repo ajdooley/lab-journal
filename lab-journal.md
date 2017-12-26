@@ -64,7 +64,7 @@ We used far more turns in the copper wire this time, and made sure the windings 
 # Practical 3:  
 ## Incremental Encoder: 
 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-3.fw.png" width="600" height="500" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-3.fw.png" width="650" height="500" />
 
 ## 3D Printing And Mounting: 
 
