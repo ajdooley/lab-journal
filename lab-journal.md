@@ -24,6 +24,7 @@ Permissions / User / Bits / Creation date
 ## Hack Into A Robot: 
 
 The robot was networked and we were given an IP address. 
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20170925_100923.jpg" width="650" height="400" />
 We win!
 
 
@@ -115,15 +116,16 @@ We 3D printed a disk with a slot in it. This would attach to the motor shaft and
 
 -------------------------------- 
 # Robotic Arm Project: 
-
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20171106_103548.jpg" width="650" height="400" />
  
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20171127_093756.jpg" width="650" height="400" />
 
 ## Wiring The Servos: 
 
 
 
 ## Controlling A Servo: 
-
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20171106_103553.jpg" width="650" height="400" />
  
 
 ## Using ROS: 
