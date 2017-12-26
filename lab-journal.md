@@ -75,8 +75,9 @@ We 3D printed a disk with a slot in it. This would attach to the motor shaft and
 ## The Circuit:  
 
 
-## Coding: 
+## Coding:
 
+`Inline Code` 
 
 
 # Practical 4:  
@@ -90,7 +91,7 @@ We 3D printed a disk with a slot in it. This would attach to the motor shaft and
 
 ## Coding: 
 
- 
+ `Inline Code` 
  
  
 
