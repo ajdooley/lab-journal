@@ -116,16 +116,16 @@ We 3D printed a disk with a slot in it. This would attach to the motor shaft and
 
 -------------------------------- 
 # Robotic Arm Project: 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/20171106_103548.jpg" width="650" height="400" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20171106_103548.jpg" width="650" height="350" />
  
-<img src="https://github.com/ajdooley/lab-journal/blob/master/20171127_093756.jpg" width="650" height="400" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20171127_093756.jpg" width="650" height="350" />
 
 ## Wiring The Servos: 
 
 
 
 ## Controlling A Servo: 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/20171106_103553.jpg" width="650" height="400" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20171106_103553.jpg" width="650" height="350" />
  
 
 ## Using ROS: 
