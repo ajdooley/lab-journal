@@ -147,6 +147,8 @@ Image taken from: https://www.circuitspecialists.com/blog/unipolar-stepper-motor
 -------------------------------- 
 # Robotic Arm Project: 
 
+Testing the servos:
+
 <img src="https://github.com/ajdooley/lab-journal/blob/master/20171106_103548.jpg" width="650" height="350" />
  
 <img src="https://github.com/ajdooley/lab-journal/blob/master/20171127_093756.jpg" width="650" height="350" />
@@ -162,7 +164,23 @@ Image taken from: https://www.circuitspecialists.com/blog/unipolar-stepper-motor
 
 ## Using ROS: 
 
-
+'#include <Servo.h>
+Servo myservo;
+int pos = 0;
+void setup() {
+myservo.attach(9); // attaches the servo on pin 9 to the servo object
+}
+void loop() {
+for (pos = 0; pos <= 180; pos += 1) {
+// in steps of 1 degree
+myservo.write(pos);
+delay(15);
+}
+for (pos = 180; pos >= 0; pos -= 1) {
+myservo.write(pos);
+delay(15);
+}
+}'
 
 ## ROS Node: 
 
