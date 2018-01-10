@@ -177,6 +177,8 @@ Image taken from: https://www.circuitspecialists.com/blog/unipolar-stepper-motor
 -------------------------------- 
 # Robotic Arm Project: 
 
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20180110_182458.jpg" width="600" height="350" />
+
 Testing the servos:
 
 <img src="https://github.com/ajdooley/lab-journal/blob/master/20171106_103548.jpg" width="650" height="350" />
@@ -229,9 +231,12 @@ void loop() {
 
 }
 
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20180110_182504.jpg" width="650" height="350" />
+
+<img src="https://github.com/ajdooley/lab-journal/blob/master/20180110_182511.jpg" width="650" height="350" />
+
 ## URDF Model: 
 
- 
 
 ## Visualized 3D Model: 
 
