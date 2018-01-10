@@ -166,7 +166,7 @@ void blinkdown()
 
 ## Wiring Up A Stepper Motor: 
 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/Connecting.jpg" width="650" height="350" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Connecting.jpg" width="500" height="350" />
 
 ## Bipolar Vs Unipolar Stepper Motor: 
 
