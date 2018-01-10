@@ -162,7 +162,7 @@ void blinkdown()
 # Practical 5:  
 ## Stepper motors And Arduino : 
 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/Stepper.jpg" width="650" height="350" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Stepper.jpg" width="600" height="350" />
 
 ## Wiring Up A Stepper Motor: 
 
