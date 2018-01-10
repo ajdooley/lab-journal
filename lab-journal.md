@@ -170,7 +170,7 @@ void blinkdown()
 
 ## Bipolar Vs Unipolar Stepper Motor: 
 
-<img src="https://github.com/ajdooley/lab-journal/blob/master/Polar.gif" width="650" height="350" />
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Polar.gif" width="650" height="400" />
 
 Image taken from: https://www.circuitspecialists.com/blog/unipolar-stepper-motor-vs-bipolar-stepper-motors/
 
