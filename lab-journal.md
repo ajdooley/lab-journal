@@ -80,7 +80,8 @@ We 3D printed a disk with a slot in it. This would attach to the motor shaft and
 
 ## Coding:
 
-`const byte interruptPin = 2;
+`
+const byte interruptPin = 2;
 volatile byte state = LOW;
 unsigned long count = 0;
 boolean counted = false;
@@ -117,6 +118,7 @@ void blinkdown()
     //counted = false;
   }
 }
+
 ` 
 
 # Practical 4:  
