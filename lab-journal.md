@@ -78,7 +78,16 @@ We 3D printed a disk with a slot in it. This would attach to the motor shaft and
 
 
 
-## Coding:
+# Practical 4:  
+## Controlling The Motor: 
+
+ 
+
+## Motor Shield: 
+
+ 
+
+## Coding: 
 
 `
 const byte interruptPin = 2;
@@ -118,32 +127,16 @@ void blinkdown()
     //counted = false;
   }
 }
-
 ` 
-
-# Practical 4:  
-## Controlling The Motor: 
-
- 
-
-## Motor Shield: 
-
- 
-
-## Coding: 
-
- `Inline Code` 
- 
- 
 
 # Practical 5:  
 ## Stepper motors And Arduino : 
 
- 
+Google images
 
 ## Wiring Up A Stepper Motor: 
 
- 
+Google Images
 
 ## Bipolar Vs Unipolar Stepper Motor: 
 
