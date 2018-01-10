@@ -81,7 +81,7 @@ We 3D printed a disk with a slot in it. This would attach to the motor shaft and
 # Practical 4:  
 ## Controlling The Motor: 
 
- 
+We connected the motor we had build to the motor shield in order to control the speed.
 
 ## Motor Shield: 
 
@@ -132,22 +132,21 @@ void blinkdown()
 # Practical 5:  
 ## Stepper motors And Arduino : 
 
-Google images
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Stepper.jpg" width="650" height="350" />
 
 ## Wiring Up A Stepper Motor: 
 
-Google Images
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Connecting.jpg" width="650" height="350" />
 
 ## Bipolar Vs Unipolar Stepper Motor: 
 
- Google Images
+<img src="https://github.com/ajdooley/lab-journal/blob/master/Polar.gif" width="650" height="350" />
 
-## Programming A Stepper Motor: 
-
-
+Image taken from: https://www.circuitspecialists.com/blog/unipolar-stepper-motor-vs-bipolar-stepper-motors/
 
 -------------------------------- 
 # Robotic Arm Project: 
+
 <img src="https://github.com/ajdooley/lab-journal/blob/master/20171106_103548.jpg" width="650" height="350" />
  
 <img src="https://github.com/ajdooley/lab-journal/blob/master/20171127_093756.jpg" width="650" height="350" />
@@ -157,6 +156,7 @@ Google Images
 <img src="https://github.com/ajdooley/lab-journal/blob/master/20180110_154528.jpg" width="700" height="400" />
 
 ## Controlling A Servo: 
+
 <img src="https://github.com/ajdooley/lab-journal/blob/master/20171106_103553.jpg" width="650" height="350" />
  
 
