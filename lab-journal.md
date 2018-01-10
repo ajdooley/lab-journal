@@ -164,11 +164,12 @@ Testing the servos:
 
 ## Using ROS: 
 
-'#include <Servo.h>'
+#include <Servo.h>
 
-'Servo myservo;'
+Servo myservo;
 
-'int pos = 0;'
+int pos = 0;
+
 
 void setup() {
 
