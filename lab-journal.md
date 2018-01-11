@@ -1,4 +1,4 @@
-# Lab Journal
+# Lab Journal, ROCO222 By Alex Dooley
 
 <img src="https://github.com/ajdooley/lab-journal/blob/master/20170925_100923.jpg" width="700" height="400" />
 
