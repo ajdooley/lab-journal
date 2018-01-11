@@ -26,8 +26,13 @@ Permissions / User / Bits / Creation date
 ## Hack Into A Robot: 
 
 The robot was networked and we were given an IP address. 
-We win!
+IP: 192.168.0.184
 
+Some of the code used to make the robot speak was the following:
+'
+tts = ALProxy("ALTextToSpeech", "localhost", 9559)
+tts.say("I've hacked you, robot!")
+'
 
 # Practical 2: 
 ## DC Motor: 
