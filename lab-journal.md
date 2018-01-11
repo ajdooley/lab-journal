@@ -52,13 +52,13 @@ Having produced a working DC motor using a single coil, we decided to try and pr
 
 In order to produce this new motor we used the following:
 
-1x 300mm of 8mm threadded rod
-2x 608Z bearings
-50x 8mm washers
-50x 8mm nuts
-500g Thinly insulated copper wire
-Many cups of coffee
-PETG Filament for 3D Printing
+* 1x 300mm of 8mm threadded rod
+* 2x 608Z bearings
+* 50x 8mm washers
+* 50x 8mm nuts
+* 500g Thinly insulated copper wire
+* Many cups of coffee
+* PETG Filament for 3D Printing
 
 ## 3D printing: 
 
