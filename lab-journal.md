@@ -50,6 +50,16 @@ We created a simple yet effective DC motor using a cork as a commutator and arma
 
 Having produced a working DC motor using a single coil, we decided to try and produce one using 4 coils. We 3D printed mounting and attached it to a larger piece of plywood. In order to make this motor turn faster, we used thicker gauge copper wire in order to take a higher current and more windings. We also stacked up far more magnets. 
 
+In order to produce this new motor we used the following:
+
+1x 300mm of 8mm threadded rod
+2x 608Z bearings
+50x 8mm washers
+50x 8mm nuts
+500g Thinly insulated copper wire
+Many cups of coffee
+PETG Filament for 3D Printing
+
 ## 3D printing: 
 
 <img src="https://github.com/ajdooley/lab-journal/blob/master/Untitled-4.fw.png" width="450" height="500" />
