@@ -29,10 +29,11 @@ The robot was networked and we were given an IP address.
 IP: 192.168.0.184
 
 Some of the code used to make the robot speak was the following:
-'
+
+```
 tts = ALProxy("ALTextToSpeech", "localhost", 9559)
 tts.say("I've hacked you, robot!")
-'
+```
 
 # Practical 2: 
 ## DC Motor: 
@@ -104,7 +105,7 @@ We connected the motor we had build to the motor shield in order to control the 
 
 ## Coding: 
 
-
+```
 const byte interruptPin = 2;
 
 volatile byte state = LOW;
@@ -171,7 +172,7 @@ void blinkdown()
   }
   
 }
-
+```
 
 
 # Practical 5:  
@@ -211,6 +212,7 @@ Testing the servos:
 
 ## Using ROS: 
 
+```
 #include <Servo.h>
 
 Servo myservo;
@@ -245,6 +247,7 @@ void loop() {
   }
 
 }
+```
 
 <img src="https://github.com/ajdooley/lab-journal/blob/master/20180110_182504.jpg" width="650" height="350" />
 
